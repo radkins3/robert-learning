@@ -1,0 +1,17 @@
+Todays Session on Interfaces
+
+Interface is defined as an abstract type that defines methods a class must implement. It is used to achieve abstraction and multiple inheritance in java
+To implement an interface, "implements" is used as a key word
+
+A class can extend another class. An interface can extend another interface.
+A class can implement an interface but an interface cannot implement a class.
+
+
+Use a class when:
+1. You need to represent a real world entitiy with attributes and behaviors (methods)
+2. You need to create objects that hold state
+3. Classes are blueprints for objects
+
+Use an Interface when:
+1. You need to define a contract for behavior that multiple classes implement
+2. Ideal for achieve abstration and multiple inheritance
