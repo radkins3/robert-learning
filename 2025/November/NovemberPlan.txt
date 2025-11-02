@@ -1,0 +1,4 @@
+Welcome to November!
+
+A few key focuses that I have this month is getting through Spring and Spring Boot and pushing code EVERYDAY.
+We will add notes and topics we learned to this note file as we go.
